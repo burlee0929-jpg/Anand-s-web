@@ -1,0 +1,6 @@
+{
+  "name": "Анандын Портфолио | 10 настай вэб бүтээгч",
+  "description": "10 настай сурагч Анандын портфолио сайт. Elite International School, миний бүтээлүүд, сонирхол, хобби.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
